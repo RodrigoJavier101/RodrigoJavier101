@@ -3,7 +3,7 @@ This is my github repo.
 
 Mainly android apps and exercices in it.
 
-Ocassionaly web development, especialy of a blog that im trying to release.
+Ocassionaly web development, specialy of a blog that im trying to release.
 
 Have a nice day!!
 <!--

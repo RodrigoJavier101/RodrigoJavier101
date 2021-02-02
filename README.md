@@ -1,5 +1,11 @@
 ### Hi there 👋
+This is my github repo.
 
+Mainly android apps and exercices in it.
+
+Ocassionaly web development, especialy of a blog that im trying to release.
+
+Have a nice day!!
 <!--
 **RodrigoJavier101/RodrigoJavier101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

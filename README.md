@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 This is my github repo.
 
 Mainly android apps and exercices in it.
@@ -7,7 +7,7 @@ Ocassionaly web development, specialy of a blog that im trying to release.
 
 PD: LeJardinDuNoix is an alternative repo that I hope to use soon.
 
-Have a nice day!!
+##Have a nice day!!
 <!--
 **RodrigoJavier101/RodrigoJavier101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

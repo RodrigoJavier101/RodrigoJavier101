@@ -3,7 +3,7 @@ This is my github repo.
 
 Mainly android apps and exercices in it.
 
-Ocassionaly web development, specialy of a blog that im trying to release.
+Ocassionaly web development, specially a blog that im trying to release.
 
 PD: LeJardinDuNoix is an alternative repo that I hope to use soon.
 

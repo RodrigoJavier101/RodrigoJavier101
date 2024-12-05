@@ -1,6 +1,6 @@
 # Hello -> 👋
 
-## 💬  have a nice day and beautiful life 💬 
+## ✨✨✨ have a nice day and a beautiful life ✨✨✨
 
 <!--
 **RodrigoJavier101/RodrigoJavier101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
